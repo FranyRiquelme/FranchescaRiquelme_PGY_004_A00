@@ -17,8 +17,8 @@ asientos[[1,2,3,4,5,6,7,8.9,10]
 
 
 Platinum=120000
-gold=80000
-silver=50000
+Gold=80000
+Silver=50000
 
 
 menu=0
